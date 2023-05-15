@@ -171,3 +171,15 @@ Received Import Request.
   path: Assets/main.unity
   artifactKey: Guid(ce8bbb58141384146b23f0fc8216bd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/main.unity using Guid(ce8bbb58141384146b23f0fc8216bd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b2eb8b1d9d4b55ad647bf2dad838df') in 0.012297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 263.048825 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40fc5629c4141466786b845dfe4fc31') in 0.045150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.222290 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.017284 seconds 
